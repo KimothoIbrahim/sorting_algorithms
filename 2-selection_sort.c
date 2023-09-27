@@ -15,7 +15,8 @@ void swints(int *a, int *b)
 }
 
 /**
- * selection_sort - uses selection sort algorithm to put everything in ascending order.
+ * selection_sort - uses selection sort algorithm
+ * to put everything in ascending order.
  * @array: int array.
  * @size: The array size.
  */
